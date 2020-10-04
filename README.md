@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbn&layout=compact&theme=radical" alt="gilbn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbn&show_icons=true&theme=radical" alt="gilbn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbn&show_icons=true&theme=radical" alt="gilbn" /></p>
