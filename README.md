@@ -12,3 +12,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbn&show_icons=true&theme=radical" alt="gilbn" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbn&show_icons=true&theme=radical)](https://github.com/gilbn/github-readme-stats)
