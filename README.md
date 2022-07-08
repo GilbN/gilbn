@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilbn&style=flat-square" alt="gilbn" /> </p>
 
 - 📝 I occasionally write articles on [https://technicalramblings.com/](https://technicalramblings.com/)
+- Check out [https://theme-park.dev](https://theme-park.dev)
 
 - 📫 How to reach me **me@gilbn.dev**
 
